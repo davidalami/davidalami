@@ -2,6 +2,10 @@
 
 ![](https://img.shields.io/badge/-PyTorch-white?style=plastic&logo=Pytorch&logoColor=orange&) 
 ![](https://img.shields.io/badge/-CUDA-black?style=plastic&logo=C&logoColor=red&) 
+![](https://img.shields.io/badge/-Pycharm-white?style=plastic&logo=pycharm&logoColor=orange&)
+![](https://img.shields.io/badge/-Docker-white?style=plastic&logo=docker&logoColor=orange&)
+![](https://img.shields.io/badge/-Google Colab-white?style=plastic&logo=googlecolab&logoColor=orange&)
+![](https://img.shields.io/badge/-Google Cloud-white?style=plastic&logo=googlecloud&logoColor=orange&)
 ![](https://img.shields.io/badge/-Git-white?style=plastic&logo=Git&logoColor=orange&)
 ![](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python&logoColor=orange&)
 ![](https://img.shields.io/badge/-Linux-white?style=plastic&logo=Linux&logoColor=orange&)
