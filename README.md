@@ -6,7 +6,9 @@
 ![](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python&logoColor=orange&)
 ![](https://img.shields.io/badge/-Linux-white?style=plastic&logo=Linux&logoColor=orange&)
 ![](https://img.shields.io/badge/-Bash-white?style=plastic&logo=GNUbash&logoColor=orange&)
-![](https://img.shields.io/badge/-Sklearn-white?style=plastic&logo=scikitlearn&logoColor=orange&)
+![](https://img.shields.io/badge/-scikit-learn-white?style=plastic&logo=scikitlearn&logoColor=orange&)
+![](https://img.shields.io/badge/-numpy-white?style=plastic&logo=numpy&logoColor=orange&)
+![](https://img.shields.io/badge/-spacy-white?style=plastic&logo=spacy&logoColor=orange&)
 
 
 <!--
