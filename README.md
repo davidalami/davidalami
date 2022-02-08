@@ -3,6 +3,9 @@
 ![](https://img.shields.io/badge/-PyTorch-white?style=plastic&logo=Pytorch&logoColor=orange&) 
 ![](https://img.shields.io/badge/-CUDA-black?style=plastic&logo=C&logoColor=red&) 
 ![](https://img.shields.io/badge/-Git-white?style=plastic&logo=Git&logoColor=orange&)
+![](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python&logoColor=orange&)
+![](https://img.shields.io/badge/-Linux-white?style=plastic&logo=Linux&logoColor=orange&)
+![](https://img.shields.io/badge/-Bash-white?style=plastic&logo=Bash&logoColor=orange&)
 
 
 <!--
