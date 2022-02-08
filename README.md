@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/-PyTorch-white?style=plastic&logo=Pytorch&logoColor=orange&) ![](https://img.shields.io/badge/-CUDA-black?style=plastic&logo=C&logoColor=red&) 
+
+
 <!--
 **davidalami/davidalami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📫 Reach me at:
 -->
