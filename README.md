@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/-PyTorch-white?style=plastic&logo=Pytorch&logoColor=orange&) 
 ![](https://img.shields.io/badge/-CUDA-black?style=plastic&logo=C&logoColor=red&) 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/120px-Git-logo-orange.svg.png) 
+![](https://img.shields.io/badge/-Git-white?style=plastic&logo=Git&logoColor=orange&)
 
 
 <!--
