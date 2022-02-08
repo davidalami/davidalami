@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/-Git-white?style=plastic&logo=Git&logoColor=orange&)
 ![](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python&logoColor=orange&)
 ![](https://img.shields.io/badge/-Linux-white?style=plastic&logo=Linux&logoColor=orange&)
-![](https://img.shields.io/badge/-Shell-white?style=plastic&logo=GNU\ Bash&logoColor=orange&)
+![](https://img.shields.io/badge/-Shell-white?style=plastic&logo=GNU&logoColor=orange&)
 
 
 <!--
